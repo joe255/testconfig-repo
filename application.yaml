@@ -3,3 +3,5 @@ spring:
   cloud:
     config: 
       what: thef
+      nullint:
+      nullstring:
